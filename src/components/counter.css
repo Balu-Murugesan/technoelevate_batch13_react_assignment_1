@@ -1,0 +1,30 @@
+.maindiv {
+  position: fixed;
+  bottom: 40%;
+  right: 40%;
+  border: 2px solid black;
+  background-color: rgb(250, 246, 246);
+}
+button {
+  font-size: 60px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border: none;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+.green {
+  background-color: green;
+  padding-top: 6px;
+}
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+.red {
+  background-color: red;
+  padding-top: 6px;
+}
